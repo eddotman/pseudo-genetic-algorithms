@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1322773809 source:c:\users\eddie\documents\my dropbox\personal\programming\genetic strings\genetic strings\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+
