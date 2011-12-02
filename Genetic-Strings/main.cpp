@@ -148,7 +148,7 @@ int main()
         if (evalNumSimilarity(bestOffspring, targetNum) == 0)
         {
             cout << "Match Created!";
-            break;
+            flag = true;
         }
 
 
